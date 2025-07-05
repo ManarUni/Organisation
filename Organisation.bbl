@@ -1,0 +1,89 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{schmelzerHermannJ2020GidP}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e1bc629e22e191607832af1a847bbd5}{%
+           family={Schmelzer},
+           familyi={S\bibinitperiod},
+           given={Hermann\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \strng{namehash}{1e1bc629e22e191607832af1a847bbd5}
+      \strng{fullhash}{1e1bc629e22e191607832af1a847bbd5}
+      \strng{bibnamehash}{1e1bc629e22e191607832af1a847bbd5}
+      \strng{authorbibnamehash}{1e1bc629e22e191607832af1a847bbd5}
+      \strng{authornamehash}{1e1bc629e22e191607832af1a847bbd5}
+      \strng{authorfullhash}{1e1bc629e22e191607832af1a847bbd5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9., vollständig überarbeitete Auflage}
+      \field{isbn}{9783446446250}
+      \field{title}{Geschäftsprozessmanagement in der Praxis : Kunden zufriedenstellen, Produktivität steigern, Wert erhöhen}
+      \field{year}{2020}
+      \keyw{Prozessmanagement; Lehrbuch}
+    \endentry
+    \entry{StelzerDirk1962-2011I:GA}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f4a125958763e7db337b171052b2f91}{%
+           family={Stelzer},
+           familyi={S\bibinitperiod},
+           given={Dirk\bibnamedelima 1962-},
+           giveni={D\bibinitperiod\bibinitdelim 1\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \strng{namehash}{7f4a125958763e7db337b171052b2f91}
+      \strng{fullhash}{7f4a125958763e7db337b171052b2f91}
+      \strng{bibnamehash}{7f4a125958763e7db337b171052b2f91}
+      \strng{authorbibnamehash}{7f4a125958763e7db337b171052b2f91}
+      \strng{authornamehash}{7f4a125958763e7db337b171052b2f91}
+      \strng{authorfullhash}{7f4a125958763e7db337b171052b2f91}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Informationsmanagement ist das auf Information und Kommunikation gerichtete Leitungshandeln in Organisationen, also alle Führungsaufgaben, die sich mit Information und Kommunikation befassen. In diesem Lehr- und Handbuch werden in 44 Lerneinheiten die Grundlagen und Aufgaben des Informationsmanagements und die Methoden dargestellt, die zur Unterstützung der Aufgabenerfüllung geeignet sind. Vier Forschungsfallstudien zeigen Ergebnisse wissenschaftlicher Arbeit zu diesem Teilgebiet der Wirtschaftsinformatik, die auch für die Lösung von IT-Problemen in der Praxis relevant sind. Die Lerneinheiten sind klar und einheitlich strukturiert: Lernziele, Definitionen der Kernbegriffe und Kontrollfragen erleichtern das Selbststudium; der Lernstoff ist in didaktisch sinnvolle Abschnitte gegliedert und wird durch Abbildungen veranschaulicht; Forschungsbefunde belegen seine wissenschaftliche und praktische Bedeutung; Praxisbeispiele beschreiben Probleme und Problemlösungen; Vertiefungsliteratur, Informationsmaterial und einschlägige Normen ermöglichen eine weiterführende Beschäftigung mit dem Lernstoff. Dieses Lehr- und Handbuch richtet sich nicht nur an Studierende wirtschaftswissenschaftlicher und technischer Studiengänge, insbesondere Wirtschaftsinformatik, Betriebswirtschaftslehre und Informatik, sondern auch an IT-Führungskräfte. Die Website http://www.informationsmanagement-buch.orgenthält umfangreiches Zusatzmaterial und gibt Studierenden und Praktikern die Möglichkeit, Hinweise zur Ergänzung und Verbesserung des Buches zu geben sowie über aktuelle Fragen des Informationsmanagements zu diskutieren.}
+      \field{edition}{10., vollständig überarb. Aufl..}
+      \field{isbn}{9783486714593}
+      \field{issn}{9783486702538}
+      \field{title}{Informationsmanagement : Grundlagen, Aufgaben, Methoden}
+      \field{year}{2011}
+      \keyw{IT-Management -- Führungsaufgaben Information und Kommunikation -- Informationsmanagement -- Wirtschaftsinformatik; Electronic books; Informationsmanagement}
+    \endentry
+  \enddatalist
+  \missing{churakova2020}
+  \missing{smithAriyachandra2021}
+\endrefsection
+\endinput
+
