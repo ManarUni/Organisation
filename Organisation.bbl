@@ -19,35 +19,282 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{schmelzerHermannJ2020GidP}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1e1bc629e22e191607832af1a847bbd5}{%
-           family={Schmelzer},
-           familyi={S\bibinitperiod},
-           given={Hermann\bibnamedelima J},
-           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+    \entry{buyya2008market}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=029e03ba4e08a5605b31a31f86375741}{%
+           family={Buyya},
+           familyi={B\bibinitperiod},
+           given={Rajkumar},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c1291e6ecf0dbfe473a835854099336}{%
+           family={Yeo},
+           familyi={Y\bibinitperiod},
+           given={Chee\bibnamedelima Shin},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11593173de8f0ecb4f1c61df36d7c740}{%
+           family={Venugopal},
+           familyi={V\bibinitperiod},
+           given={Srikumar},
+           giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \list{language}{1}{%
-        {ger}%
+      \list{organization}{1}{%
+        {Ieee}%
       }
-      \strng{namehash}{1e1bc629e22e191607832af1a847bbd5}
-      \strng{fullhash}{1e1bc629e22e191607832af1a847bbd5}
-      \strng{bibnamehash}{1e1bc629e22e191607832af1a847bbd5}
-      \strng{authorbibnamehash}{1e1bc629e22e191607832af1a847bbd5}
-      \strng{authornamehash}{1e1bc629e22e191607832af1a847bbd5}
-      \strng{authorfullhash}{1e1bc629e22e191607832af1a847bbd5}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \strng{namehash}{72ad1e8af9140101e7db77764a1b7c8a}
+      \strng{fullhash}{287b3feec74f00f885a72baea73773ca}
+      \strng{bibnamehash}{287b3feec74f00f885a72baea73773ca}
+      \strng{authorbibnamehash}{287b3feec74f00f885a72baea73773ca}
+      \strng{authornamehash}{72ad1e8af9140101e7db77764a1b7c8a}
+      \strng{authorfullhash}{287b3feec74f00f885a72baea73773ca}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{9., vollständig überarbeitete Auflage}
-      \field{isbn}{9783446446250}
-      \field{title}{Geschäftsprozessmanagement in der Praxis : Kunden zufriedenstellen, Produktivität steigern, Wert erhöhen}
-      \field{year}{2020}
-      \keyw{Prozessmanagement; Lehrbuch}
+      \field{booktitle}{2008 10th IEEE international conference on high performance computing and communications}
+      \field{title}{Market-oriented cloud computing: Vision, hype, and reality for delivering it services as computing utilities}
+      \field{year}{2008}
+      \field{pages}{5\bibrangedash 13}
+      \range{pages}{9}
+    \endentry
+    \entry{chong2006multi}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=eb1d5276a01d3c54f9ac05c5316b90ab}{%
+           family={Chong},
+           familyi={C\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ee955930591b9f9eb2a5667c3255bd2}{%
+           family={Carraro},
+           familyi={C\bibinitperiod},
+           given={Gianpaolo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36d528c113f0496f15455a976784b4ad}{%
+           family={Wolter},
+           familyi={W\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ee830394304d38b08774030fe190365}
+      \strng{fullhash}{02e414d6cf672c46b4c345f0f9014ae5}
+      \strng{bibnamehash}{02e414d6cf672c46b4c345f0f9014ae5}
+      \strng{authorbibnamehash}{02e414d6cf672c46b4c345f0f9014ae5}
+      \strng{authornamehash}{2ee830394304d38b08774030fe190365}
+      \strng{authorfullhash}{02e414d6cf672c46b4c345f0f9014ae5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MSDN Library, Microsoft Corporation}
+      \field{title}{Multi-tenant data architecture}
+      \field{year}{2006}
+      \field{pages}{14\bibrangedash 30}
+      \range{pages}{17}
+    \endentry
+    \entry{chou2011cloud}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=0e4afc0d022f415898f7ffbb30a6a5bb}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Amy\bibnamedelima Y},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a3c192d81ea5477bbae9020efdd0a4bb}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{7df99495485a841d37361056111089be}
+      \strng{fullhash}{7df99495485a841d37361056111089be}
+      \strng{bibnamehash}{7df99495485a841d37361056111089be}
+      \strng{authorbibnamehash}{7df99495485a841d37361056111089be}
+      \strng{authornamehash}{7df99495485a841d37361056111089be}
+      \strng{authorfullhash}{7df99495485a841d37361056111089be}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Southwest Decision Science Institute Conference}
+      \field{title}{Cloud Computing from the perspective of system analysis}
+      \field{year}{2011}
+    \endentry
+    \entry{churakova2010software}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9ef2426b51566f56af20d9fee6020edf}{%
+           family={Churakova},
+           familyi={C\bibinitperiod},
+           given={Inna},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aebff8ef15034a5f3ca080d1091c3565}{%
+           family={Mikhramova},
+           familyi={M\bibinitperiod},
+           given={Ramilja},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65bd5036901ab8577e9b92c9cb6e6b44}{%
+           family={Gielen},
+           familyi={G\bibinitperiod},
+           given={Ir\bibnamedelima F},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7de80c595c7b3ceb38160e7c63485b41}
+      \strng{fullhash}{b29581534b259d2a273cbda8904fb1e4}
+      \strng{bibnamehash}{b29581534b259d2a273cbda8904fb1e4}
+      \strng{authorbibnamehash}{b29581534b259d2a273cbda8904fb1e4}
+      \strng{authornamehash}{7de80c595c7b3ceb38160e7c63485b41}
+      \strng{authorfullhash}{b29581534b259d2a273cbda8904fb1e4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Universiteit Gent}
+      \field{title}{Software as a service: Study and analysis of saas business model and innovation ecosystems}
+      \field{volume}{103}
+      \field{year}{2010}
+    \endentry
+    \entry{kumkale_organizational_2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8719db4ec685bb7b5fb58ec5b899418a}{%
+           family={Kumkale},
+           familyi={K\bibinitperiod},
+           given={İlknur},
+           giveni={İ\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Singapore}%
+      }
+      \strng{namehash}{8719db4ec685bb7b5fb58ec5b899418a}
+      \strng{fullhash}{8719db4ec685bb7b5fb58ec5b899418a}
+      \strng{bibnamehash}{8719db4ec685bb7b5fb58ec5b899418a}
+      \strng{authorbibnamehash}{8719db4ec685bb7b5fb58ec5b899418a}
+      \strng{authornamehash}{8719db4ec685bb7b5fb58ec5b899418a}
+      \strng{authorfullhash}{8719db4ec685bb7b5fb58ec5b899418a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-981-16-7581-2 978-981-16-7582-9}
+      \field{langid}{english}
+      \field{series}{Accounting, Finance, Sustainability, Governance \& Fraud: Theory and Application}
+      \field{shorttitle}{Organizational Mastery}
+      \field{title}{Organizational Mastery: The Impact of Strategic Leadership and Organizational Ambidexterity on Organizational Agility}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-981-16-7582-9
+      \endverb
+      \verb{file}
+      \verb PDF:files/932/Kumkale - 2022 - Organizational Mastery The Impact of Strategic Leadership and Organizational Ambidexterity on Organ.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/978-981-16-7582-9
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/978-981-16-7582-9
+      \endverb
+    \endentry
+    \entry{murthy2010tapping}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1acadf41974f1c21be2eb701b044d22c}{%
+           family={Murthy},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1acadf41974f1c21be2eb701b044d22c}
+      \strng{fullhash}{1acadf41974f1c21be2eb701b044d22c}
+      \strng{bibnamehash}{1acadf41974f1c21be2eb701b044d22c}
+      \strng{authorbibnamehash}{1acadf41974f1c21be2eb701b044d22c}
+      \strng{authornamehash}{1acadf41974f1c21be2eb701b044d22c}
+      \strng{authorfullhash}{1acadf41974f1c21be2eb701b044d22c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Infosys. Infosys, FINsights issue on IT optimization}
+      \field{title}{Tapping into SaaS and pre-packaged products to drive optimization}
+      \field{year}{2010}
+    \endentry
+    \entry{rahman_achieving_2022}{collection}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8d048ffe727f7d2f8e21d824c9bac02}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Hakikur},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editorb}{1}{}{%
+        {{hash=392d5a009af7962604a7e843435e51f7}{%
+           family={Tavana},
+           familyi={T\bibinitperiod},
+           given={Madjid},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IGI} Global}%
+      }
+      \strng{namehash}{d8d048ffe727f7d2f8e21d824c9bac02}
+      \strng{fullhash}{d8d048ffe727f7d2f8e21d824c9bac02}
+      \strng{bibnamehash}{d8d048ffe727f7d2f8e21d824c9bac02}
+      \strng{editorbibnamehash}{d8d048ffe727f7d2f8e21d824c9bac02}
+      \strng{editornamehash}{d8d048ffe727f7d2f8e21d824c9bac02}
+      \strng{editorfullhash}{d8d048ffe727f7d2f8e21d824c9bac02}
+      \strng{editorbbibnamehash}{392d5a009af7962604a7e843435e51f7}
+      \strng{editorbnamehash}{392d5a009af7962604a7e843435e51f7}
+      \strng{editorbfullhash}{392d5a009af7962604a7e843435e51f7}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{editorbtype}{redactor}
+      \field{isbn}{978-1-7998-4799-1 978-1-7998-4800-4}
+      \field{langid}{english}
+      \field{series}{Advances in Business Information Systems and Analytics}
+      \field{shorttitle}{Achieving Organizational Agility, Intelligence, and Resilience Through Information Systems}
+      \field{title}{Achieving Organizational Agility, Intelligence, and Resilience Through Information Systems:}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.4018/978-1-7998-4799-1
+      \endverb
+      \verb{file}
+      \verb PDF:files/930/Rahman - 2022 - Achieving Organizational Agility, Intelligence, and Resilience Through Information Systems.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-4799-1
+      \endverb
+      \verb{url}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-4799-1
+      \endverb
     \endentry
     \entry{StelzerDirk1962-2011I:GA}{book}{}
       \name{author}{1}{}{%
@@ -82,8 +329,6 @@
       \keyw{IT-Management -- Führungsaufgaben Information und Kommunikation -- Informationsmanagement -- Wirtschaftsinformatik; Electronic books; Informationsmanagement}
     \endentry
   \enddatalist
-  \missing{churakova2020}
-  \missing{smithAriyachandra2021}
 \endrefsection
 \endinput
 

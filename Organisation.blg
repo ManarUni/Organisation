@@ -1,18 +1,19 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'Organisation.blg'
-[320] biber-MSWIN64:340> INFO - === 
-[437] Biber.pm:419> INFO - Reading 'Organisation.bcf'
-[658] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[679] Biber.pm:4419> INFO - Processing section 0
-[716] Biber.pm:4610> INFO - Looking for bibtex file 'Organisation.bib' for section 0
-[795] bibtex.pm:1713> INFO - LaTeX decoding ...
-[837] bibtex.pm:1519> INFO - Found BibTeX data source 'Organisation.bib'
-[1044] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1044] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1044] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
-[1044] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[1048] bbl.pm:660> INFO - Writing 'Organisation.bbl' with encoding 'UTF-8'
-[1049] bbl.pm:763> INFO - Output to Organisation.bbl
-[1050] Biber.pm:131> WARN - I didn't find a database entry for 'smithAriyachandra2021' (section 0)
-[1050] Biber.pm:131> WARN - I didn't find a database entry for 'churakova2020' (section 0)
-[1050] Biber.pm:133> INFO - WARNINGS: 2
+[1] Config.pm:307> INFO - This is Biber 2.19
+[2] Config.pm:310> INFO - Logfile is 'Organisation.blg'
+[334] biber-MSWIN64:340> INFO - === 
+[416] Biber.pm:419> INFO - Reading 'Organisation.bcf'
+[672] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[692] Biber.pm:4419> INFO - Processing section 0
+[709] Biber.pm:4610> INFO - Looking for bibtex file 'Organisation.bib' for section 0
+[807] bibtex.pm:1713> INFO - LaTeX decoding ...
+[891] bibtex.pm:1519> INFO - Found BibTeX data source 'Organisation.bib'
+[1042] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1042] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1042] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[1043] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[1061] bbl.pm:660> INFO - Writing 'Organisation.bbl' with encoding 'UTF-8'
+[1068] bbl.pm:763> INFO - Output to Organisation.bbl
+[1069] Biber.pm:131> WARN - Duplicate entry key: 'chou2011cloud' in file 'Organisation.bib', skipping ...
+[1069] Biber.pm:131> WARN - ISBN '978-1-7998-4799-1 978-1-7998-4800-4' in entry 'rahman_achieving_2022' is invalid - run biber with '--validate_datamodel' for details.
+[1069] Biber.pm:131> WARN - ISBN '978-981-16-7581-2 978-981-16-7582-9' in entry 'kumkale_organizational_2022' is invalid - run biber with '--validate_datamodel' for details.
+[1069] Biber.pm:133> INFO - WARNINGS: 3
