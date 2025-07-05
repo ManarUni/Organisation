@@ -1,0 +1,14 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{Abbildungsverzeichnis}{III}{section*.2}%
+\contentsline {section}{Tabellenverzeichnis}{IV}{section*.3}%
+\contentsline {section}{\numberline {1}Einleitung und Unternehmensvorstellung}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Analyse der Aufbau und Ablauforganisation}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Herausforderungen und Gestaltungspotenziale in der Organisation}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Theoretischer Hintergrund}{7}{section.2}%
+\contentsline {section}{\numberline {3}Methodik}{7}{section.3}%
+\contentsline {section}{\numberline {4}Ergebnisse}{7}{section.4}%
+\contentsline {section}{\numberline {5}Diskussion}{7}{section.5}%
+\contentsline {section}{\numberline {6}Fazit und Ausblick }{8}{section.6}%
+\contentsline {section}{Literaturverzeichnis}{i}{section*.5}%
+\contentsline {section}{\numberline {7}Anhang}{iii}{section.7}%
+\contentsline {section}{\numberline {8}Anhang: Nutzung von Künstlicher Intelligenz}{iv}{section.8}%
