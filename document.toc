@@ -12,15 +12,14 @@
 \contentsline {subsection}{\numberline {2.3}Identifizierte Herausforderungen}{2}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Entwicklung eines Konzepts für organisationalen Wandel}{2}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Ausgangspunkt und Problemfokus}{2}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Zielsetzung des Konzepts}{2}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Konzeptionelle Ansätze und Maßnahmen}{2}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Umgang mit potenziellen Widerständen}{2}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.2}Zielsetzung des Konzepts}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Konzeptionelle Ansätze und Maßnahmen}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Umgang mit potenziellen Widerständen}{3}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Voraussetzungen und Erfolgsfaktoren}{3}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Diskussion der Ergebnisse}{3}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Bewertung der vorgeschlagenen Maßnahmen}{3}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Potenziale und Chancen}{3}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Risiken und Grenzen}{3}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Einschätzung zur Umsetzbarkeit}{3}{subsection.4.4}%
-\contentsline {section}{Literaturverzeichnis}{i}{section*.5}%
-\contentsline {section}{\numberline {5}Anhang}{iii}{section.5}%
-\contentsline {section}{\numberline {6}Anhang: Nutzung von Künstlicher Intelligenz}{iv}{section.6}%
+\contentsline {section}{\numberline {4}Diskussion der Ergebnisse}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Bewertung der vorgeschlagenen Maßnahmen}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Potenziale und Chancen}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Risiken und Grenzen}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Einschätzung zur Umsetzbarkeit}{4}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Anhang}{ii}{section.5}%
+\contentsline {section}{\numberline {6}Anhang: Nutzung von Künstlicher Intelligenz}{iii}{section.6}%
