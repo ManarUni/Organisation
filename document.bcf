@@ -2363,27 +2363,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">Organisation.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">kornmeier2022</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">vahs2023a</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">telekom2024</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">telekom2025basis</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">telekom2024</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">schewe2018</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">celonis2022</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">geissel2023</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">vahs2023b</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">wehr202x</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">dive</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">illek2017</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">dpvkom2025onedelivery</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">verdi2025</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">verdi2025</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">verdi2025</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">verdi2025</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">morris2022</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">koehler2023</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">t-systems2024sla</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">maier</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

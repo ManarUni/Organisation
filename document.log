@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.28)  5 JUL 2025 07:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.28)  5 JUL 2025 08:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,51 +833,38 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.195 	
-        [1] [2]
-Overfull \hbox (24.2556pt too wide) in paragraph at lines 244--248
-\T1/cmr/m/n/12 Diese ver-fü-gen über ei-ge-ne Lei-tungs-ebe-nen wie Abteilungs-
- und Team-lei-tun-gen.([]Deutsche
- []
+l.177 	B
+        ezug zur Risikoanalyse aus dem GeschÃ¤ftsbericht [1] [2] [3]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+48.
 
-[3] [4]
-
-LaTeX Warning: Citation 'dive' on page 5 undefined on input line 353.
-
-[5] [6] [7]
-
-LaTeX Warning: Citation 'maier' on page 8 undefined on input line 506.
-
-[8]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
-15.
- (C:\Users\Manar\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+(C:\Users\Manar\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Overfull \hbox (9.00902pt too wide) in paragraph at lines 515--515
+Overfull \hbox (9.00902pt too wide) in paragraph at lines 248--248
 [][]\T1/cmr/m/n/12 Köhler, J. (2023). \T1/cmr/m/it/12 Das gröÿ-te Hin-der-nis d
 er Di-gi-ta-li-sie-rung\T1/cmr/m/n/12 . Zu-ge-grif-fen am 22.05.2025.
  []
 
 
-Overfull \hbox (21.6036pt too wide) in paragraph at lines 515--515
+Overfull \hbox (21.6036pt too wide) in paragraph at lines 248--248
 [][]\T1/cmr/m/n/12 Schewe, G. (2018). \T1/cmr/m/it/12 Gabler Wirt-schafts-le-xi
 -kon: Pro-cess Ow-ner\T1/cmr/m/n/12 . Zu-ge-grif-fen am 27.05.2025. 
  []
 
 [1]
-<images/Bild1.jpg, id=182, 453.19313pt x 685.8122pt>
+<images/Bild1.jpg, id=157, 453.19313pt x 685.8122pt>
 File: images/Bild1.jpg Graphic file (type jpg)
 <use images/Bild1.jpg>
-Package pdftex.def Info: images/Bild1.jpg  used on input line 523.
+Package pdftex.def Info: images/Bild1.jpg  used on input line 256.
 (pdftex.def)             Requested size: 453.19202pt x 685.81053pt.
 
-Overfull \hbox (26.40067pt too wide) in paragraph at lines 523--524
+Overfull \hbox (26.40067pt too wide) in paragraph at lines 256--257
  [][] 
  []
 
 [2 <./images/Bild1.jpg>] [3]
-Overfull \hbox (22.24803pt too wide) in paragraph at lines 542--543
+Overfull \hbox (22.24803pt too wide) in paragraph at lines 275--276
 []\T1/cmr/bx/n/12 URL: [][]$\T1/cmtt/m/n/12 https : / / chatgpt . com / share /
  682f2a68-[]37b8-[]8007-[]9855-[]d878bcd54ae3$[][] 
  []
@@ -891,34 +878,53 @@ L3 programming layer <2023-08-29>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: C7EAD4F2AE8DB0DD3AE4A703FE39B042;2285.
+
+Package rerunfilecheck Warning: File `document.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `document.out':
+(rerunfilecheck)             Before: C7EAD4F2AE8DB0DD3AE4A703FE39B042;2285
+(rerunfilecheck)             After:  5717FA69BA09D2504A778A52A6777057;5226.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                document
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  21031 strings out of 475247
- 376781 string characters out of 5757792
- 1929785 words of memory out of 5000000
- 42248 multiletter control sequences out of 15000+600000
- 569751 words of font info for 58 fonts, out of 8000000 for 9000
+ 376811 string characters out of 5757792
+ 1926785 words of memory out of 5000000
+ 42240 multiletter control sequences out of 15000+600000
+ 568988 words of font info for 57 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  66i,6n,81p,683b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ectt1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\eccc1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecti1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Manar\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Manar\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Manar\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
-Output written on document.pdf (19 pages, 303535 bytes).
+
+pdfTeX warning (dest): name{section.8} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.7} has been referenced but does not exist, 
+replaced by a fixed one
+
+ <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt12
+00.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+eccc1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecti1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\tcrm1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecbx1440.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Manar\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Manar\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Manar\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Manar\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
+Output written on document.pdf (14 pages, 293985 bytes).
 PDF statistics:
- 586 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
  115 words of extra memory for PDF output out of 10000 (max. 10000000)
 
