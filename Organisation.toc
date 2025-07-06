@@ -16,14 +16,14 @@
 \contentsline {subsection}{\numberline {3.3}Zielsystem}{3}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Konzeptionelle Ansätze und Maßnahmen}{3}{subsection.3.4}%
 \contentsline {subsubsection}{\numberline {3.4.1}Ansatz 1}{3}{subsubsection.3.4.1}%
-\contentsline {paragraph}{1. BI-basierte Entscheidungsunterstützung: Daten als Entscheidungsgrundlage}{3}{section*.5}%
-\contentsline {paragraph}{2. SaaS-basierte Entscheidungsstrukturen: Prozesse flexibel gestalten}{4}{section*.6}%
+\contentsline {paragraph}{1. BI-basierte Entscheidungsunterstützung: Daten als Grundlage}{3}{section*.5}%
+\contentsline {paragraph}{2. SaaS-basierte Entscheidungsstrukturen: Prozesse flexibler gestalten}{4}{section*.6}%
 \contentsline {subsubsection}{\numberline {3.4.2}Ansatz 2}{5}{subsubsection.3.4.2}%
-\contentsline {paragraph}{Kontextuelle Ambidexterität als Kulturansatz zur Stärkung der Change-Kommunikation}{5}{section*.8}%
+\contentsline {paragraph}{Kontextuelle Ambidexterität als Kulturansatz zur Verbesserung der Change-Kommunikation}{5}{section*.8}%
 \contentsline {section}{\numberline {4}Diskussion der Ergebnisse}{6}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Umgang mit potenziellen Widerständen}{6}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Voraussetzungen und Erfolgsfaktoren}{6}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Bewertung der vorgeschlagenen Maßnahmen}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Bewertung der vorgeschlagenen Maßnahmen}{7}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Potenziale und Chancen}{7}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Risiken und Grenzen}{7}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}Einschätzung zur Umsetzbarkeit}{7}{subsection.4.6}%
