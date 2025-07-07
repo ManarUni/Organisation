@@ -28,6 +28,8 @@
 \usepackage{setspace} % für Zeilenabstand
 \usepackage{ragged2e} % für \justifying
 
+\usepackage{caption}
+\usepackage{enumitem}
 
 
 
@@ -121,7 +123,8 @@
 	\section*{Abkürzungsverzeichnis}
 	\begin{acronym}[IT]
 		\acro{IT}{Informationstechnologie}
-		\acro{BWL}{Betriebswirtschaftslehre}
+		\acro{BI}{Business Intelligence}
+		\acro{SaaS}{Software as a service}
 	\end{acronym}
 	\newpage
 	
@@ -138,7 +141,7 @@
 	\section{Einleitung und Unternehmensvorstellung}
 	
 	\subsection{Kontext und Relevanz}
-	Warum wurde diese Organisationseinheit gewählt?
+	Warum wurde diese Organisationseinheit genommen?
 	
 	Einordnung in das Unternehmen (z.B. Bereich, Funktion, strategische Bedeutung)
 	
@@ -178,122 +181,122 @@
 	
 	Bezug zur Risikoanalyse aus dem Geschäftsbericht
 	
-\section{Konzeptentwicklung für organisationalen Wandel}
-
-\subsection{Ausgangspunkt und Problemfokus}
-
-Wie in der Analyse gezeigt wurde, ist die eingeschränkte organisatorische Beweglichkeit ein zentrales Problem. Lange Entscheidungswege, fehlende Abstimmung zwischen Bereichen und eine geringe Reaktionsgeschwindigkeit erschweren die Zusammenarbeit und verringern die Innovationsfähigkeit der Organisation.
-
-\noindent Das folgende Konzept greift dieses Problem direkt auf. Es verbindet technologische und organisatorische Ansätze, um Entscheidungswege zu verkürzen und Strukturen anpassungsfähiger zu machen. Im Mittelpunkt stehen vier zusammenhängende Bereiche: der Einsatz von Cloud- und SaaS-Technologien, der Ausbau datengestützter Entscheidungsunterstützung (BI), die Verbesserung bereichsübergreifender HR- und Wissensprozesse sowie die Einführung agiler Arbeitsformen. Die Maßnahmen orientieren sich an den im Geschäftsbericht 2021 genannten Risikofeldern und zielen auf eine Entscheidungsstruktur ab, die robust, flexibel und skalierbar ist.
-
-\subsection{Zielsetzung des Konzepts}
-
-Das Ziel des Konzepts ist es, die organisatorische Agilität in der betrachteten Organisationseinheit der Deutschen Telekom gezielt zu verbessern. Dafür sollen technologische, strukturelle und kulturelle Voraussetzungen geschaffen werden, die eine schnellere, abgestimmte und flexiblere Reaktion auf äußere Anforderungen ermöglichen.
-
-\noindent Die Zielsetzung basiert auf dem in der strategischen Planung üblichen Aufbau aus Sach- und Formalzielen \parencite{StelzerDirk1962-2011I:GA}. Der Fokus liegt auf folgenden Punkten:
-
-\begin{itemize}
-	\item \textbf{Sachziel:} Die Organisation soll besser auf regulatorische, technologische und marktbedingte Veränderungen reagieren können – durch gezielten Einsatz agiler Methoden, cloudbasierter Systeme und strukturierter Wissensprozesse.
-	\item \textbf{Formalziele:} Bessere Wirksamkeit durch zentrale Entscheidungen und BI-Transparenz, mehr Anpassungsfähigkeit durch flexible SaaS-Workflows und Teams, sowie durch systematische Nutzung und schrittweise Einführung.
-\end{itemize}
-
-\subsection{Zielsystem}\label{sec:zielsystem}
-
-\begin{itemize}
-	\item \textbf{Ziel 1:} Innerhalb eines Jahres soll die durchschnittliche Dauer bereichsübergreifender Entscheidungsprozesse um mindestens 30\,\% gesenkt werden. Gemessen wird die Zeit zwischen Start und Umsetzung (KPI: Entscheidungsdurchlaufzeit).
+	\section{Konzeptentwicklung für organisationalen Wandel}
 	
-	\item \textbf{Ziel 2:} Die Zustimmung zur Aussage „Veränderungen werden nachvollziehbar kommuniziert“ soll nach sechs Monaten bei mindestens 75\,\% liegen. Erfasst wird dies über eine interne Zufriedenheitsumfrage (KPI: Change-Kommunikationsfeedback).
-\end{itemize}
-
-\subsection{Konzeptionelle Ansätze und Maßnahmen}
-
-\subsubsection{Ansatz 1}
-Integriertes Konzept für agile Entscheidungsunterstützung: Kombination von Business Intelligence und SaaS.
-
-\paragraph{1. BI-basierte Entscheidungsunterstützung: Daten als Grundlage}
-
-Laut Smith und Ariyachandra (2021) kann eine einfache, aber gut strukturierte BI-Lösung Entscheidungsprozesse deutlich verbessern. In ihrer Analyse der FEMA-Studie betonen sie:
-
-\begin{quote}
-	A simple integrated BI solution [...] can vastly enhance the post disaster operations [...] and improve its agility during humanitarian crises. \parencite[210]{rahman_achieving_2022}.
-\end{quote} 
-
-\noindent Die dort beschriebenen Probleme – wie fehlende Transparenz, lange Entscheidungswege oder unklare Zuständigkeiten – sind in ähnlicher Form auch bei der Deutschen Telekom zu erkennen.
-
-\noindent Um das gezielt zu verbessern, bietet sich ein strukturiertes Vorgehen auf Basis folgender fünf Punkte an:
-
-\begin{itemize}
-	\item \textbf{Datenerfassung und -bereinigung:} Im Mittelpunkt stehen operative Daten aus Telekom-Systemen – etwa zu Projekten, IT-Tickets oder Personaleinsätzen. Diese sollen automatisch geprüft und zusammengeführt werden, um bessere Entscheidungsgrundlagen zu schaffen. Denn: „Data accuracy and data completeness are […] key problems“ \parencite[S.~201]{rahman_achieving_2022}.
+	\subsection{Ausgangspunkt und Problemfokus}
 	
-	\item \textbf{Zentrale Datenintegration:} Aufbau eines cloudbasierten, einheitlichen Datenmodells mit klaren Schnittstellen zwischen Bereichen.
+	Wie in der Analyse gezeigt wurde, ist die eingeschränkte organisatorische Beweglichkeit ein zentrales Problem. Lange Entscheidungswege, fehlende Abstimmung zwischen Bereichen und eine geringe Reaktionsgeschwindigkeit erschweren die Zusammenarbeit und verringern die Innovationsfähigkeit der Organisation.
 	
-	\item \textbf{Rollenbasiertes Echtzeit-Reporting:} Dashboards zeigen je nach Rolle Kennzahlen zu Entscheidungsdauer, Rückläufen und Beteiligung.
+	\noindent Das folgende Konzept greift dieses Problem direkt auf. Es verbindet technologische und organisatorische Ansätze, um Entscheidungswege zu verkürzen und Strukturen anpassungsfähiger zu machen. Im Mittelpunkt stehen vier zusammenhängende Bereiche: der Einsatz von Cloud- und SaaS-Technologien, der Ausbau datengestützter Entscheidungsunterstützung (BI), die Verbesserung bereichsübergreifender HR- und Wissensprozesse sowie die Einführung agiler Arbeitsformen. Die Maßnahmen orientieren sich an den im Geschäftsbericht 2021 genannten Risikofeldern und zielen auf eine Entscheidungsstruktur ab, die robust, flexibel und skalierbar ist.
 	
-	\item \textbf{Governance-Struktur:} Klare Zuständigkeiten für Datenqualität, Reporting und KPI-Management.
+	\subsection{Zielsetzung des Konzepts}
 	
-	\item \textbf{Pilotierung:} Start mit agilen, interdisziplinären Teams zur schrittweisen Einführung und zur Förderung der Akzeptanz.
-\end{itemize}
-
-\noindent Ziel ist es, Entscheidungen transparenter, schneller und datenbasiert zu machen – das ist ein wichtiger Schritt, um die Agilität im Unternehmen zu steigern.
-
-\paragraph{2. SaaS-basierte Entscheidungsstrukturen: Prozesse flexibler gestalten}
-
-Business Intelligence (BI) sorgt für bessere Entscheidungsgrundlagen. Der SaaS-Ansatz (Software-as-a-Service) geht einen Schritt weiter: Er macht die Entscheidungsprozesse selbst flexibler, transparenter und technisch besser skalierbar. Für ein Unternehmen wie die Deutsche Telekom bedeutet das, Entscheidungswege zu vereinfachen, Zuständigkeiten klarer zu regeln und Prozesse dynamisch anzupassen.
-
-\noindent Entscheidungsstrukturen lassen sich als digitale Services abbilden – mit klaren Schnittstellen, automatischem Feedback und standardisierter Überwachung. Cloudbasiertes Wissensmanagement kann die nötige Beweglichkeit schaffen, um qualitativ gute Entscheidungen zu ermöglichen \parencite{churakova2010software}.
-
-\noindent Die Einführung erfolgt idealerweise schrittweise nach einem angepassten Modell von Chou und Chou (2011), das sich auf die Arbeiten von \parencite{murthy2010tapping}, \parencite{chong2006multi} und \parencite{buyya2008market} stützt. Das Modell besteht aus sechs aufeinander aufbauenden Phasen und wurde für große Organisationen wie die Telekom angepasst (vgl. Abbildung~\ref{fig:saas-implementation-plan}).
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.6\textwidth]{./images/saas_implementation_plan.png}
-	\caption{Modifizierter SaaS-Implementierungsplan nach \textcite{chou2011cloud}, basierend auf \textcite{murthy2010tapping}, \textcite{chong2006multi} und \textcite{buyya2008market}}
-	\label{fig:saas-implementation-plan}
-\end{figure}
-
-\begin{itemize}
-	\item \textbf{Define:} Zuerst wird festgehalten, wo es aktuell Probleme gibt – zum Beispiel Medienbrüche, unklare Zuständigkeiten oder isolierte Systeme.
+	Das Ziel des Konzepts ist es, die organisatorische Agilität in der betrachteten Organisationseinheit der Deutschen Telekom gezielt zu verbessern. Dafür sollen technologische, strukturelle und kulturelle Voraussetzungen geschaffen werden, die eine schnellere, abgestimmte und flexiblere Reaktion auf äußere Anforderungen ermöglichen.
 	
-	\item \textbf{Analyze:} Danach wird die IT-Struktur analysiert, die Ziele der Fachbereiche aufgenommen und mögliche Hürden bei der Integration betrachtet.
+	\noindent Die Zielsetzung basiert auf dem in der strategischen Planung üblichen Aufbau aus Sach- und Formalzielen \parencite{StelzerDirk1962-2011I:GA}. Der Fokus liegt auf folgenden Punkten:
 	
-	\item \textbf{Plan:} Auf dieser Grundlage wird die Migration zu SaaS geplant. Dazu gehören die Auswahl von Anbietern, technische Anforderungen und rechtliche Rahmenbedingungen (z.\,B. Datenschutz, SLAs).
+	\begin{itemize}
+		\item \textbf{Sachziel:} Die Organisation soll besser auf regulatorische, technologische und marktbedingte Veränderungen reagieren können – durch gezielten Einsatz agiler Methoden, cloudbasierter Systeme und strukturierter Wissensprozesse.
+		\item \textbf{Formalziele:} Bessere Wirksamkeit durch zentrale Entscheidungen und BI-Transparenz, mehr Anpassungsfähigkeit durch flexible SaaS-Workflows und Teams, sowie durch systematische Nutzung und schrittweise Einführung.
+	\end{itemize}
 	
-	\item \textbf{Engage:} Die Umsetzung beginnt klein – zum Beispiel in einem Bereich mit vielen Abstimmungen – um erste Erfahrungen zu sammeln und direkt nachzubessern.
+	\subsection{Zielsystem}\label{sec:zielsystem}
 	
-	\item \textbf{Feedback:} Erste Umsetzungsschritte werden laufend bewertet – zum Beispiel in Bezug auf Bedienbarkeit, Schnittstellen oder die Akzeptanz bei den Mitarbeitenden.
+	\begin{itemize}
+		\item \textbf{Ziel 1:} Innerhalb eines Jahres soll die durchschnittliche Dauer bereichsübergreifender Entscheidungsprozesse um mindestens 30\,\% gesenkt werden. Gemessen wird die Zeit zwischen Start und Umsetzung (KPI: Entscheidungsdurchlaufzeit).
+		
+		\item \textbf{Ziel 2:} Die Zustimmung zur Aussage „Veränderungen werden nachvollziehbar kommuniziert“ soll nach sechs Monaten bei mindestens 75\,\% liegen. Erfasst wird dies über eine interne Zufriedenheitsumfrage (KPI: Change-Kommunikationsfeedback).
+	\end{itemize}
 	
-	\item \textbf{Modify:} Auf Basis des Feedbacks werden technische und organisatorische Anpassungen gemacht. Ziel ist eine Lösung, die passt und sich skalieren lässt.
-\end{itemize}
-
-\noindent Die Telekom kann mit diesem Ansatz Entscheidungsprozesse serviceorientiert, nachvollziehbar und flexibel gestalten. Damit werden auch die definierten Formalziele unterstützt: Softwaregestützte Strukturen erhöhen die Wirksamkeit, konfigurierbare Workflows steigern die Anpassungsfähigkeit, und zentral verfügbare Dienste verbessern die Effizienz – auch über Bereichsgrenzen hinweg.
-
-\noindent Die Verbindung von BI (für bessere Entscheidungsinhalte) und SaaS (für flexible Prozesse) ergibt ein durchdachtes Gesamtkonzept, das direkt zur Stärkung der organisatorischen Beweglichkeit beiträgt – eine praxisnahe Antwort auf die Herausforderungen der Konzernsteuerung.
-
-\subsubsection{Ansatz 2}
-
-\paragraph{Kontextuelle Ambidexterität als Kulturansatz zur Verbesserung der Change-Kommunikation}
-
-Neben technologischen Maßnahmen braucht es auch eine passende Unternehmenskultur, um echte Beweglichkeit zu erreichen. Ein sinnvoller Ansatz ist die sogenannte kontextuelle Ambidexterität. Dabei geht es darum, Mitarbeitende in die Lage zu versetzen, eigenständig zwischen effizientem Arbeiten (Exploitation) und dem Erkunden neuer Lösungen (Exploration) zu wechseln. Es wird also nicht auf starre Strukturen oder einzelne Führungspersonen gesetzt, sondern ein Umfeld geschaffen, das auf Eigenverantwortung und Anpassungsfähigkeit setzt.
-
-\noindent\textcite{kumkale_organizational_2022} beschreiben das als „Führung durch Kontext“:
-
-\begin{quote}
-	Ambidexterity does not come into view from the formal structure alone or the vision statements of a charismatic leader, but rather requires the creation of a supportive context in which individuals make their own choices about how and where to focus their energies. \parencite[18]{kumkale_organizational_2022}.
-\end{quote}
-
-\noindent Für die Telekom heißt das, Rahmenbedingungen zu schaffen, damit auf allen Ebenen Führungsverantwortung übernommen werden kann – besonders in Zeiten des Wandels. Dazu gehören:
-
-\begin{itemize}
-	\item ein klar formulierter Handlungsrahmen (Alignment),
-	\item die aktive Einbindung der Mitarbeitenden in Entscheidungen (Empowerment),
-	\item und eine Feedbackkultur, die Lernen und Anpassung ermöglicht (Adaptability).
-\end{itemize}
-
-\noindent Ziel ist es, die Zustimmung zur Aussage „Veränderungen werden nachvollziehbar kommuniziert“ dauerhaft zu steigern (vgl. Ziel 2 in Abschnitt~\ref{sec:zielsystem}). Mehr Eigenverantwortung und Orientierung im Arbeitsalltag fördern nicht nur das Verständnis für Veränderungen, sondern verbessern auch die Umsetzung selbst.
-
+	\subsection{Konzeptionelle Ansätze und Maßnahmen}
+	
+	\subsubsection{Ansatz 1}
+	Integriertes Konzept für agile Entscheidungsunterstützung: Kombination von Business Intelligence und SaaS.
+	
+	\paragraph{1. BI-basierte Entscheidungsunterstützung: Daten als Grundlage}
+	
+	Laut Smith und Ariyachandra (2021) kann eine einfache, aber gut strukturierte BI-Lösung Entscheidungsprozesse deutlich verbessern. In ihrer Analyse der FEMA-Studie betonen sie:
+	
+	\begin{quote}
+		A simple integrated BI solution [...] can vastly enhance the post disaster operations [...] and improve its agility during humanitarian crises. \parencite[210]{rahman_achieving_2022}.
+	\end{quote} 
+	
+	\noindent Die dort beschriebenen Probleme – wie fehlende Transparenz, lange Entscheidungswege oder unklare Zuständigkeiten – sind in ähnlicher Form auch bei der Deutschen Telekom zu erkennen.
+	
+	\noindent Um das gezielt zu verbessern, bietet sich ein strukturiertes Vorgehen auf Basis folgender fünf Punkte an:
+	
+	\begin{itemize}
+		\item \textbf{Datenerfassung und -bereinigung:} Im Mittelpunkt stehen operative Daten aus Telekom-Systemen – etwa zu Projekten, IT-Tickets oder Personaleinsätzen. Diese sollen automatisch geprüft und zusammengeführt werden, um bessere Entscheidungsgrundlagen zu schaffen. Denn: „Data accuracy and data completeness are […] key problems“ \parencite[S.~201]{rahman_achieving_2022}.
+		
+		\item \textbf{Zentrale Datenintegration:} Aufbau eines cloudbasierten, einheitlichen Datenmodells mit klaren Schnittstellen zwischen Bereichen.
+		
+		\item \textbf{Rollenbasiertes Echtzeit-Reporting:} Dashboards zeigen je nach Rolle Kennzahlen zu Entscheidungsdauer, Rückläufen und Beteiligung.
+		
+		\item \textbf{Governance-Struktur:} Klare Zuständigkeiten für Datenqualität, Reporting und KPI-Management.
+		
+		\item \textbf{Pilotierung:} Start mit agilen, interdisziplinären Teams zur schrittweisen Einführung und zur Förderung der Akzeptanz.
+	\end{itemize}
+	
+	\noindent Ziel ist es, Entscheidungen transparenter, schneller und datenbasiert zu machen – das ist ein wichtiger Schritt, um die Agilität im Unternehmen zu steigern.
+	
+	\paragraph{2. SaaS-basierte Entscheidungsstrukturen: Prozesse flexibler gestalten}
+	
+	Business Intelligence (BI) sorgt für bessere Entscheidungsgrundlagen. Der SaaS-Ansatz (Software-as-a-Service) geht einen Schritt weiter: Er macht die Entscheidungsprozesse selbst flexibler, transparenter und technisch besser skalierbar. Für ein Unternehmen wie die Deutsche Telekom bedeutet das, Entscheidungswege zu vereinfachen, Zuständigkeiten klarer zu regeln und Prozesse dynamisch anzupassen.
+	
+	\noindent Entscheidungsstrukturen lassen sich als digitale Services abbilden – mit klaren Schnittstellen, automatischem Feedback und standardisierter Überwachung. Cloudbasiertes Wissensmanagement kann die nötige Beweglichkeit schaffen, um qualitativ gute Entscheidungen zu ermöglichen \parencite{churakova2010software}.
+	
+	\noindent Die Einführung erfolgt idealerweise schrittweise nach einem angepassten Modell von Chou und Chou (2011), das sich auf die Arbeiten von \parencite{murthy2010tapping}, \parencite{chong2006multi} und \parencite{buyya2008market} stützt. Das Modell besteht aus sechs aufeinander aufbauenden Phasen und wurde für große Organisationen wie die Telekom angepasst (vgl. Abbildung~\ref{fig:saas-implementation-plan}).
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.6\textwidth]{./images/saas_implementation_plan.png}
+		\caption{Modifizierter SaaS-Implementierungsplan nach \textcite{chou2011cloud}, basierend auf \textcite{murthy2010tapping}, \textcite{chong2006multi} und \textcite{buyya2008market}}
+		\label{fig:saas-implementation-plan}
+	\end{figure}
+	
+	\begin{itemize}
+		\item \textbf{Define:} Zuerst wird festgehalten, wo es aktuell Probleme gibt – zum Beispiel Medienbrüche, unklare Zuständigkeiten oder isolierte Systeme.
+		
+		\item \textbf{Analyze:} Danach wird die IT-Struktur analysiert, die Ziele der Fachbereiche aufgenommen und mögliche Hürden bei der Integration betrachtet.
+		
+		\item \textbf{Plan:} Auf dieser Grundlage wird die Migration zu SaaS geplant. Dazu gehören die Auswahl von Anbietern, technische Anforderungen und rechtliche Rahmenbedingungen (z.\,B. Datenschutz, SLAs).
+		
+		\item \textbf{Engage:} Die Umsetzung beginnt klein – zum Beispiel in einem Bereich mit vielen Abstimmungen – um erste Erfahrungen zu sammeln und direkt nachzubessern.
+		
+		\item \textbf{Feedback:} Erste Umsetzungsschritte werden laufend bewertet – zum Beispiel in Bezug auf Bedienbarkeit, Schnittstellen oder die Akzeptanz bei den Mitarbeitenden.
+		
+		\item \textbf{Modify:} Auf Basis des Feedbacks werden technische und organisatorische Anpassungen gemacht. Ziel ist eine Lösung, die passt und sich skalieren lässt.
+	\end{itemize}
+	
+	\noindent Die Telekom kann mit diesem Ansatz Entscheidungsprozesse serviceorientiert, nachvollziehbar und flexibel gestalten. Damit werden auch die definierten Formalziele unterstützt: Softwaregestützte Strukturen erhöhen die Wirksamkeit, konfigurierbare Workflows steigern die Anpassungsfähigkeit, und zentral verfügbare Dienste verbessern die Effizienz – auch über Bereichsgrenzen hinweg.
+	
+	\noindent Die Verbindung von BI (für bessere Entscheidungsinhalte) und SaaS (für flexible Prozesse) ergibt ein durchdachtes Gesamtkonzept, das direkt zur Stärkung der organisatorischen Beweglichkeit beiträgt – eine praxisnahe Antwort auf die Herausforderungen der Konzernsteuerung.
+	
+	\subsubsection{Ansatz 2}
+	
+	\paragraph{Kontextuelle Ambidexterität als Kulturansatz zur Verbesserung der Change-Kommunikation}
+	
+	Neben technologischen Maßnahmen braucht es auch eine passende Unternehmenskultur, um echte Beweglichkeit zu erreichen. Ein sinnvoller Ansatz ist die sogenannte kontextuelle Ambidexterität. Dabei geht es darum, Mitarbeitende in die Lage zu versetzen, eigenständig zwischen effizientem Arbeiten (Exploitation) und dem Erkunden neuer Lösungen (Exploration) zu wechseln. Es wird also nicht auf starre Strukturen oder einzelne Führungspersonen gesetzt, sondern ein Umfeld geschaffen, das auf Eigenverantwortung und Anpassungsfähigkeit setzt.
+	
+	\noindent\textcite{kumkale_organizational_2022} beschreiben das als „Führung durch Kontext“:
+	
+	\begin{quote}
+		Ambidexterity does not come into view from the formal structure alone or the vision statements of a charismatic leader, but rather requires the creation of a supportive context in which individuals make their own choices about how and where to focus their energies. \parencite[18]{kumkale_organizational_2022}.
+	\end{quote}
+	
+	\noindent Für die Telekom heißt das, Rahmenbedingungen zu schaffen, damit auf allen Ebenen Führungsverantwortung übernommen werden kann – besonders in Zeiten des Wandels. Dazu gehören:
+	
+	\begin{itemize}
+		\item ein klar formulierter Handlungsrahmen (Alignment),
+		\item die aktive Einbindung der Mitarbeitenden in Entscheidungen (Empowerment),
+		\item und eine Feedbackkultur, die Lernen und Anpassung ermöglicht (Adaptability).
+	\end{itemize}
+	
+	\noindent Ziel ist es, die Zustimmung zur Aussage „Veränderungen werden nachvollziehbar kommuniziert“ dauerhaft zu steigern (vgl. Ziel 2 in Abschnitt~\ref{sec:zielsystem}). Mehr Eigenverantwortung und Orientierung im Arbeitsalltag fördern nicht nur das Verständnis für Veränderungen, sondern verbessern auch die Umsetzung selbst.
+	
 	
 	\section{Diskussion der Ergebnisse}
-		\subsection{Umgang mit potenziellen Widerständen}
+	\subsection{Umgang mit potenziellen Widerständen}
 	Bezug auf bekannte Widerstandsursachen (vgl. Abbildung)
 	
 	Maßnahmen zur Förderung der Akzeptanz:
@@ -339,11 +342,56 @@ Neben technologischen Maßnahmen braucht es auch eine passende Unternehmenskultu
 	
 	%------------------------- unternehmensinfo -------------------------
 	\newpage
-	\thispagestyle{empty} % keine Seitenzahl anzeigen
-	\begin{figure}[H]
-		\centering
-		\includegraphics{images/Bild1.jpg}
-	\end{figure}
+	
+	\begin{center}
+		\section*{Unternehmenssteckbrief}
+		\addcontentsline{toc}{section}{Unternehmenssteckbrief}
+	\end{center}  
+	\begin{flushright}
+		\includegraphics[width=2cm]{./images/dl-telekom-logo.jpg} % dl-telekom-logo oben rechts
+	\end{flushright}
+	\vspace*{-2cm} 
+	\subsection*{Allgemeine Informationen:}
+	{\footnotesize
+		\begin{itemize}[left=1.5em, itemsep=0.5pt]
+			\item \textbf{Name:} Deutsche Telekom AG
+			\item \textbf{Gründung:} 1995 (aus der Privatisierung der Deutschen Bundespost Telekom hervorgegangen)
+			\item \textbf{Sitz:} Bonn, Deutschland
+			\item \textbf{Vorstandsvorsitzender:} Timotheus Höttges
+			\item \textbf{Mitarbeiterzahl:} Rund 200{,}000 weltweit (Stand 2024)
+			\item \textbf{Umsatz:} Ca. 114 Milliarden Euro im Geschäftsjahr
+			\item \textbf{Branchen:} Telekommunikation, IT-Systems, Festnetz- und Mobilfunkdienste, Internet und TV, IT-Services (über Tochter T-Systems), Cloud- und Sicherheitslösungen
+			\item \textbf{Marken:} Telekom, T-Mobile
+		\end{itemize}
+	}
+	\subsection*{Unternehmensziele:}
+	{\footnotesize
+		\begin{itemize}[left=1.5em, itemsep=0.5pt]
+			\item \textbf{Wachstum im Kerngeschäft:} Ausbau von Mobilfunk, Glasfasernetzen und 5G-Technologien weltweit
+			\item \textbf{Digitalisierung:} Treiber und Partner für die Digitalisierung von Wirtschaft und Gesellschaft
+			\item \textbf{Kundenzufriedenheit:} Best Customer Experience, Verbesserung der Kundenerfahrungen durch Innovation und Servicequalität
+			\item \textbf{Nachhaltigkeit:} Standardisierte Weiterentwicklung von Netztechnologien bis 2025, Klimaneutralität bis 2040
+			\item \textbf{Innovation:} Ständige Weiterentwicklung von Netz-Technologien und digitalen Plattformen gewährleisten
+			\item \textbf{Verantwortung:} Soziales Engagement und ethisches Verhalten gegenüber Mitarbeitern, Kunden und der Gesellschaft
+		\end{itemize}
+	}
+	
+	\begin{flushleft}
+		\begin{minipage}{5cm}
+			\includegraphics[width=\linewidth]{./images/bi-strategie-schwungrad.jpg}
+			\captionof{figure}{Schwungrad zur Vision „Leading Digital Telco“ \autocite{ag_strategie_2024}}
+			\label{fig:bi-strategie-schwungrad}
+		\end{minipage}
+	\end{flushleft}
+	
+	\vspace{0.3cm}
+	
+	\noindent\footnotesize
+	\rule{5cm}{0.4pt} \\
+	\href{https://www.telekom.com/de/konzern/konzern-profil/konzernprofil-624542}{https://www.telekom.com/de/konzern/konzern-profil/konzernprofil-624542} (Stand 27.04) \\
+	\href{https://www.telekom.com/de/investor-relations}{https://www.telekom.com/de/investor-relations} (Stand 27.04)
+	
+	
 	\newpage
 	%------------------------- Anhang -------------------------
 	\newpage

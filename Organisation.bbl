@@ -19,6 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{ag_strategie_2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcf703d52499e48bdde6991016c33c8a}{%
+           family={{AG}},
+           familyi={A\bibinitperiod},
+           given={Deutsche\bibnamedelima Telekom},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dcf703d52499e48bdde6991016c33c8a}
+      \strng{fullhash}{dcf703d52499e48bdde6991016c33c8a}
+      \strng{bibnamehash}{dcf703d52499e48bdde6991016c33c8a}
+      \strng{authorbibnamehash}{dcf703d52499e48bdde6991016c33c8a}
+      \strng{authornamehash}{dcf703d52499e48bdde6991016c33c8a}
+      \strng{authorfullhash}{dcf703d52499e48bdde6991016c33c8a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{langid}{german}
+      \field{month}{10}
+      \field{title}{Strategie}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:files/935/details.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.telekom.com/de/konzern/strategie/details
+      \endverb
+      \verb{url}
+      \verb https://www.telekom.com/de/konzern/strategie/details
+      \endverb
+    \endentry
     \entry{buyya2008market}{inproceedings}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=029e03ba4e08a5605b31a31f86375741}{%

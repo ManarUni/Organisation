@@ -28,5 +28,6 @@
 \contentsline {subsection}{\numberline {4.5}Risiken und Grenzen}{7}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}Einschätzung zur Umsetzbarkeit}{7}{subsection.4.6}%
 \contentsline {section}{Literaturverzeichnis}{i}{section*.9}%
+\contentsline {section}{Unternehmenssteckbrief}{ii}{section*.10}%
 \contentsline {section}{\numberline {5}Anhang}{iii}{section.5}%
 \contentsline {section}{\numberline {6}Anhang: Nutzung von Künstlicher Intelligenz}{iv}{section.6}%
